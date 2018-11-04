@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Heart/Fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.1658852,3.03442436 C14.9912142,2.7829063 13.6164222,3.93270314 12,5.72926071 C10.3335854,3.93270314 9.00878581,2.81883745 6.83411477,3.03442436 C3.88456094,3.42068424 1.56824466,7.04973052 2.06816904,10.2206546 C2.90137633,15.3049125 7.06741281,18.3051637 12,21 C16.9992438,18.3051637 21.1652803,15.3049125 21.931831,10.2206546 C22.4317553,7.04973052 20.1154391,3.42068424 17.1658852,3.03442436 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon/Heart/Fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="24pt-Bounding-Box" x="0" y="0" width="24" height="24"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill" fill="#25A9CE" xlink:href="#path-1"></use>
+    </g>
+</svg>
